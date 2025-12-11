@@ -1,6 +1,5 @@
 en_US.twitter.txt
-next_word_model.h5
-tokenizer.pkl
-en_US.twitter.txt
+en_US.twitter-checkpoint.txt
+.ipynb_checkpoints/
 next_word_model.h5
 tokenizer.pkl
